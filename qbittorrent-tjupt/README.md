@@ -20,7 +20,7 @@
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展（Chrome / Firefox / Edge 均支持）
 2. 点击下方链接一键安装，或手动复制脚本内容新建：
 
-   **[点击安装 qbittorrent-tjupt.user.js](./qbittorrent-tjupt.user.js)**
+   **[点击安装 qbittorrent-tjupt.user.js](https://github.com/tjupt/UserScript/raw/refs/heads/master/qbittorrent-tjupt/qbittorrent-tjupt.user.js)**
 
 ## 配置
 
