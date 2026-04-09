@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         qBittorrent TJUPT 详情直达
-// @namespace    https://github.com/tjupt/UserScript/qbittorrent-tjupt
-// @version      1.2.0
+// @namespace    https://github.com/tjupt/UserScript/tree/master/qbittorrent-tjupt
+// @version      1.3.0
 // @description  当种子 Tracker 包含 tjupt.org 时，在属性面板 Tab 栏末尾添加「种子详情」和「H&R 考核」快捷入口
 // @author       Draven
 // @icon         https://tjupt.org/favicon.ico
@@ -13,6 +13,7 @@
 // -------------------------------------------------------
 // @grant        none
 // @run-at       document-idle
+// @downloadURL  https://github.com/tjupt/UserScript/raw/refs/heads/master/qbittorrent-tjupt/qbittorrent-tjupt.user.js
 // ==/UserScript==
 
 (function () {
